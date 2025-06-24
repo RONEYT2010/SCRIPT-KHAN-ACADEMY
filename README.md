@@ -1,4 +1,4 @@
-# Meu Script de Bookmarklet
+# SCRIPT KHAN ACADEMY 
 
 ## Como usar
 
