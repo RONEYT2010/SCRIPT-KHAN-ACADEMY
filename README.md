@@ -11,4 +11,4 @@ Script para usar o **Khanware** direto do seu navegador, sem instalar nada!
 3. Logo após pesquisa o nome que você colocou depois de copiar o link
 
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/YAGO-CAVALLI/Khanware-Bookmarklet@main/Khanware.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
