@@ -1,9 +1,14 @@
-# SCRIPT KHAN ACADEMY 🤖
+# 🚀 Khanware Bookmarklet
 
-## Como usar
+Script para usar o **Khanware** direto do seu navegador, sem instalar nada!
 
-1. Crie um novo favorito (bookmark) no seu navegador.
-2. No campo de URL do favorito, cole o seguinte código:
+---
 
-```javascript
-javascript:fetch("https://res.cloudinary.com/djc2oykzd/raw/upload/Khann.js").then(t=>t.text()).then(eval);
+## ✅ Como usar
+
+1. Crie um novo favorito no seu navegador.
+2. No campo de URL, cole **exatamente** este código:
+3. Logo após pesquisa o nome que você colocou depois de copiar o link
+
+```js
+javascript:fetch("https://cdn.jsdelivr.net/gh/YAGO-CAVALLI/Khanware-Bookmarklet@main/Khanware.js").then(t=>t.text()).then(eval);
